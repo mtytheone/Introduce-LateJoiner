@@ -82,6 +82,7 @@ public class ViaOwnerRequest : UdonSharpBehaviour
 
     public void AddInt()
     {
+        // SendCustomNetworkEventに引数が使えたら、以下のようなコードで処理が出来そう
         // _intData++;
         // SendCustomNetworkEvent(VRC.Udon.Common.Interfaces.NetworkEventTarget.All, ReceivedIntProcess(_intData));
     }
