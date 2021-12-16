@@ -1,4 +1,4 @@
-# Introduce VideoPlayer
+# Introduce LateJoiner
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-819FF7.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -8,7 +8,7 @@
 
 
 ## How to Install - 導入方法
-[Releaseページ](https://github.com/mtytheone/Introduce-VideoPlayer/releases)から最新版のunitypackageをダウンロードしてください。
+[Releaseページ](https://github.com/mtytheone/Introduce-LateJoiner/releases)から最新版のunitypackageをダウンロードしてください。
 
 その後、VRCSDK3及びUdonSharpをインストールしたUnityのプロジェクトに、先程ダウンロードしたunitypackageを導入してください。
 
